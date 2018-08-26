@@ -6,5 +6,6 @@ Git tracks changes of files
 Creating a new branch is quick AND simple
 =======
 Creating a new branch is quick AND simple
-Just for dev
+Just for dev1
+Just for dev2
 >>>>>>> feature1
