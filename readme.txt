@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple
 Just for dev1
 Just for dev2
 >>>>>>> feature1
+master changed
